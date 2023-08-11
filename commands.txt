@@ -1,0 +1,3 @@
+
+Run Training:
+spacy train config.cfg --output ./trained_models --paths.train ./training_data.spacy --paths.dev ./training_data.spacy
